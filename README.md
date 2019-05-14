@@ -1,5 +1,20 @@
 # Kaggle_Competitions
-Kaggle competitions solution codes each with accuracy > 82
+Kaggle competitions using Machine Learning algorithms codes each with accuracy > 82
+
+Important steps for each Project steps:
+
+1)Dataset Analysis and Insights
+
+2)Data Preprocessing 
+
+3)Model generation
+
+4)Evaluating the Model performance
+
+5)Optimizing the Model
+
+6)Final solution 
+
 
 Kaggle competition solutions.
 Datasets:
