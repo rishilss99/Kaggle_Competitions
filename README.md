@@ -3,17 +3,17 @@ Kaggle competitions using Machine Learning algorithms codes each with accuracy >
 
 Important steps for each Project steps:
 
-1)Dataset Analysis and Insights
+1) Dataset Analysis and Insights
 
-2)Data Preprocessing 
+2) Data Preprocessing 
 
-3)Model generation
+3) Model generation and Training
 
-4)Evaluating the Model performance
+4) Evaluating the Model performance
 
-5)Optimizing the Model
+5) Optimizing the Model
 
-6)Final solution 
+6) Final solution 
 
 
 Kaggle competition solutions.
