@@ -23,4 +23,6 @@ Datasets:
 
 2) ACM Kaggle Challenge achieved accuracy > 82
 
-3) Data Science London + Scikit Learn dataset still on-going
+3) Data Science London + Scikit Learn dataset : On-going project
+
+4) TMBD Box Office Prediction : On-going project 
